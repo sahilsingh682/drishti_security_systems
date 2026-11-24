@@ -165,7 +165,7 @@ drishti_security_Systems/
 └── README.md
 ```
 
-> ℹ️ Update this section if your actual folder layout differs.
+> ℹ️ Update this section if your actual folder structure/layout differs .
 
 ---
 
